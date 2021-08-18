@@ -18,7 +18,7 @@ author:
 
 # URL settings
 url: "https://mlongs.github.io" #
-baseurl: "/mlongs.github.io" # leave blank if not wishd
+baseurl: "" # leave blank if not wishd
 permalink: "https://mlongs.github.io"
 permalink: pretty 
 
