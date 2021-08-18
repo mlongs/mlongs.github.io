@@ -19,7 +19,7 @@ author:
 # URL settings
 url: "https://mlongs.github.io" #
 baseurl: "" # leave blank if not wishd
-permalink: "https://mlongs.github.io"
+permalink: ""
 permalink: pretty 
 
 
